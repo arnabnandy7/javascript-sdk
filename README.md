@@ -216,3 +216,6 @@ $.api.deleteRecord('contact', params, session_token, callback);
 More detailed information on the DreamFactory REST API is available [here](http://wiki.dreamfactory.com/DreamFactory/API).
 
 The live API documentation included in the admin console is a great way to learn how the DreamFactory REST API works.
+
+
+<!-- GitAds-Verify: I9CQYPBVW7ES6K7P7XF8K7U591EELEJU -->
